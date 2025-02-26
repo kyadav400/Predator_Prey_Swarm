@@ -2,8 +2,16 @@ MIT License
 
 Copyright (c) 2022 [Kunal Yadav]
 
-This project compares the performance of two state-of-the-art object detection models, Detectron2 and YOLOv5, using a custom dataset. The goal is to analyze their classification accuracy, training efficiency, and robustness under real-world conditions. This study highlights the trade-offs between accuracy and speed, showing that Detectron2 is more precise but requires longer training times, while YOLOv5 offers faster detections with slightly lower accuracy. Challenges such as dataset labeling, lighting conditions, and overfitting were identified, and improvements such as camera calibration and noise filtering are suggested.
-This work also contributes to advancing object detection models for real-world applications by providing insights into their performance under constrained datasets and environmental conditions.
+This project compares the performance of two state-of-the-art object detection models, 
+Detectron2 and YOLOv5, using a custom dataset. The goal is to analyze their classification 
+accuracy, training efficiency, and robustness under real-world conditions. This study 
+highlights the trade-offs between accuracy and speed, showing that Detectron2 is more 
+precise but requires longer training times, while YOLOv5 offers faster detections with 
+slightly lower accuracy. Challenges such as dataset labeling, lighting conditions, and 
+overfitting were identified, and improvements such as camera calibration and noise 
+filtering are suggested. This work also contributes to advancing object detection models for 
+real-world applications by providing insights into their performance under constrained datasets 
+and environmental conditions.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
